@@ -1,6 +1,7 @@
 # CURRENCY-CONVERTER
 
-**The Currency Converter is made using the currencyconverter package of python**
+### The Currency Converter is made using the currencyconverter package of python
+
 Installation commands : pip install currencyconverter
 
 **Sample Output**
