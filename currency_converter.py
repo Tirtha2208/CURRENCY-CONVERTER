@@ -17,7 +17,7 @@ while(choice!=3):
     elif(choice==2):
         c1=input("Type your currency\n")
         c1=c1.upper()
-        c2=input("Typer the currency you want to convert\n")
+        c2=input("Type the currency you want to convert\n")
         c2=c2.upper()
         v=float(input("Enter the value of currency\n"))
         r=c.convert(v,c1,c2)
